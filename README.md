@@ -1,5 +1,4 @@
-# Raffeallamb-Raffeallamb-
-Bio
+                  Bio
 <h1 align="center">👋 Raffeal C. Lamb</h1>
 <h3 align="center">Founder & CEO – Supahandy Inc. | Creator of HandySuite</h3>
 <p align="center">Built by hands. Powered by vision. Driven by purpose.</p>
